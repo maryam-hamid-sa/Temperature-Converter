@@ -4,11 +4,11 @@ A simple Python program to convert temperature between Celsius and Fahrenheit.
 
 A simple Python program to convert temperature between **Celsius** and **Fahrenheit**.
 
-##  Description
+##   Description
 This is a beginner-friendly Python script that takes a temperature value and converts it 
 from Celsius to Fahrenheit or vice versa, based on user input.
 
-##  How to Run
+##   How to Run
 1. Make sure Python is installed on your system
 2. Clone this repository or download the file
 3. Run the script:
