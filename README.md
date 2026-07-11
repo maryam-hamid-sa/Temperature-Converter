@@ -35,8 +35,6 @@ cd Temperature-Converter
 python "temperature convertor.py"
 ```
 
-That's it! No extra libraries or dependencies needed — this project uses only Python's 
-built-in `input()` and `print()` functions.
 ##  Example
 
 Enter temperature value: 100
