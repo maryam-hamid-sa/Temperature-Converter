@@ -38,8 +38,11 @@ python "temperature convertor.py"
 That's it! No extra libraries or dependencies needed — this project uses only Python's 
 built-in `input()` and `print()` functions.
 ##  Example
+
 Enter temperature value: 100
+
 Convert to Celsius or Fahrenheit(C/F): F
+
 Temperature in Fahrenheit: 212.0 F
 
 ##  Built With
