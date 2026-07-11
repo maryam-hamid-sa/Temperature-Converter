@@ -44,6 +44,9 @@ Convert to Celsius or Fahrenheit(C/F): F
 
 Temperature in Fahrenheit: 212.0 F
 
+<img width="1308" height="180" alt="Capture" src="https://github.com/user-attachments/assets/7ef9c650-eaaa-44aa-8ec7-3689c83a9415" />
+
+
 ##  Built With
 - Python 3
 
