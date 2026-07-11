@@ -1,3 +1,4 @@
+<img width="1024" height="512" alt="temperature-from-Celsius-to-Fahrenheit1-1024x512" src="https://github.com/user-attachments/assets/bfb7d541-6345-4d64-b11a-4ebeead78c9c" />
 
 # 🌡️ Temperature Converter
 
